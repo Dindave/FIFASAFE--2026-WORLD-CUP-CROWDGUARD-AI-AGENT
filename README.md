@@ -114,7 +114,7 @@ Mission 4: ADVISORY GENERATION
                                ▼
                     ┌─────────────────────┐
                     │   Vertex AI          │
-                    │   Gemini 2.0 Pro     │
+                    │   Gemini 2.5 Pro     │
                     │   (the AI brain)     │
                     └──────────┬──────────┘
                                │ reads & writes via tools
@@ -173,7 +173,7 @@ CrowdGuard stores 7 types of data in Elasticsearch:
 
 ---
 
-##  How This Runs 
+##  How To Run This Yourself
 
 ### What you need before starting:
 - A Google Cloud account (free trial works — get $300 credits at cloud.google.com)
@@ -181,9 +181,8 @@ CrowdGuard stores 7 types of data in Elasticsearch:
 - Node.js 22 installed on your computer
 
 ### Step 1 — Clone this repository
-```bash
-git clone https://github.com/YOUR_USERNAME/crowdguard-wc2026.git
-cd crowdguard-wc2026
+git clone https://github.com/Dindave/FIFASAFE--2026-WORLD-CUP-CROWDGUARD-AI-AGENT.git
+cd crowdguard-agent
 ```
 
 ### Step 2 — Set up Elastic Cloud
