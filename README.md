@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 What Problem Does CrowdGuard Solve?
+## What Problem Does CrowdGuard Solve?
 
 Imagine 80,000 fans rushing into a stadium at the same time.
 
@@ -146,7 +146,7 @@ Mission 4: ADVISORY GENERATION
 
 ---
 
-## 🗄️ Data Structure (Elasticsearch Indexes)
+## Data Structure (Elasticsearch Indexes)
 
 CrowdGuard stores 7 types of data in Elasticsearch:
 
@@ -226,7 +226,7 @@ curl -X POST YOUR_CLOUD_FUNCTION_URL \
 
 ---
 
-## 📁 Files in This Repository
+## Files in This Repository
 
 ```
 crowdguard-wc2026/
@@ -258,7 +258,7 @@ crowdguard-wc2026/
 
 ---
 
-## 🔐 Environment Variables
+## Environment Variables
 
 Copy `.env.example` to `.env` and fill in your values:
 
@@ -272,7 +272,7 @@ GOOGLE_CLOUD_PROJECT_ID=your-project-id
 
 ---
 
-## 📊 Severity Levels
+## Severity Levels
 
 | Level | What it means | Density above safe limit |
 |-------|--------------|------------------------|
@@ -284,13 +284,13 @@ GOOGLE_CLOUD_PROJECT_ID=your-project-id
 
 ---
 
-## 👩‍💻 Built By
+## Built By
 
 **Dinah David (Dee)**
 AI Strategist
 - LinkedIn: [linkedin.com/in/dinahdavid](https://linkedin.com/in/dinahdavid)
 
-## 📄 License
+## License
 
 MIT License — free to use, modify, and share.
 
